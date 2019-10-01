@@ -1,0 +1,1 @@
+This is a file created to curate the ideas to redesign the instagram app on flutter.
